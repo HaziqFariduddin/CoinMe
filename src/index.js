@@ -9,7 +9,7 @@ import './App.css';
 ReactDOM.render(
     <React.StrictMode>
         <CryptoContext>
-        <App />
+        <App/>
        </CryptoContext>
     </React.StrictMode>,
     document.getElementById('root')
