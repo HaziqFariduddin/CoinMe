@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CoinMe/static/css/main.2d284cec.css",
-    "main.js": "/CoinMe/static/js/main.b3b18093.js",
+    "main.js": "/CoinMe/static/js/main.bf83547e.js",
     "index.html": "/CoinMe/index.html",
     "main.2d284cec.css.map": "/CoinMe/static/css/main.2d284cec.css.map",
-    "main.b3b18093.js.map": "/CoinMe/static/js/main.b3b18093.js.map"
+    "main.bf83547e.js.map": "/CoinMe/static/js/main.bf83547e.js.map"
   },
   "entrypoints": [
     "static/css/main.2d284cec.css",
-    "static/js/main.b3b18093.js"
+    "static/js/main.bf83547e.js"
   ]
 }
